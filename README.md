@@ -3,7 +3,7 @@
 
 <p align="left">I’m Devon. I’m currently a informatics student in Indonesia.</p>
 
-<h5 align="left">Languages I have learned</h5>
+<h4 align="left">Languages I have learned</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
