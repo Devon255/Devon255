@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi👋</h1>
 
-<p align="left">I’m Devon. I’m currently a informatics student in Indonesia. I enjoy exploring technology. I also like using AI to explore the syntax of programming languages.</p>
+<p align="left">I’m Devon. I’m currently a informatics student in Indonesia.</p>
 
 <h5 align="left">Languages I have learned</h5>
 
